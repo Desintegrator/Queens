@@ -1,0 +1,6 @@
+C:\proekty\Programs\Queens\Queens\bin\Debug\Queens.exe.config
+C:\proekty\Programs\Queens\Queens\bin\Debug\Queens.exe
+C:\proekty\Programs\Queens\Queens\bin\Debug\Queens.pdb
+C:\proekty\Programs\Queens\Queens\obj\Debug\Queens.csprojResolveAssemblyReference.cache
+C:\proekty\Programs\Queens\Queens\obj\Debug\Queens.exe
+C:\proekty\Programs\Queens\Queens\obj\Debug\Queens.pdb

@@ -1,0 +1,6 @@
+C:\proekty\Programs\Queens\QueensTests\bin\Debug\QueensTests.dll
+C:\proekty\Programs\Queens\QueensTests\bin\Debug\QueensTests.pdb
+C:\proekty\Programs\Queens\QueensTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\proekty\Programs\Queens\QueensTests\obj\Debug\QueensTests.csprojResolveAssemblyReference.cache
+C:\proekty\Programs\Queens\QueensTests\obj\Debug\QueensTests.dll
+C:\proekty\Programs\Queens\QueensTests\obj\Debug\QueensTests.pdb

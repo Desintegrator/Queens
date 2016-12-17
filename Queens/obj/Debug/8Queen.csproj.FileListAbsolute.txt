@@ -1,0 +1,6 @@
+C:\Users\Антон\AppData\Local\Temporary Projects\8Queen\bin\Debug\8Queen.exe.config
+C:\Users\Антон\AppData\Local\Temporary Projects\8Queen\bin\Debug\8Queen.exe
+C:\Users\Антон\AppData\Local\Temporary Projects\8Queen\bin\Debug\8Queen.pdb
+C:\Users\Антон\AppData\Local\Temporary Projects\8Queen\obj\Debug\8Queen.csprojResolveAssemblyReference.cache
+C:\Users\Антон\AppData\Local\Temporary Projects\8Queen\obj\Debug\8Queen.exe
+C:\Users\Антон\AppData\Local\Temporary Projects\8Queen\obj\Debug\8Queen.pdb
